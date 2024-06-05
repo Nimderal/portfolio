@@ -26,10 +26,10 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>
+              <span className=' text-lg font-bold text-red-500 tracking-wider'>
                 Rock, paper, scissors game
               </span>
-              <p className='text-center text-red'>A game called Rock, paper,scissors </p>
+              <p className='text-center text-red-500'>A game called Rock, paper,scissors </p>
               <div className='pt-8 text-center'>
                 <a href='https://syntax-project.vercel.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -50,10 +50,10 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>
+              <span className=' text-lg font-bold text-red-500 tracking-wider'>
                 Quiz Application
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center text-red-500'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
                 <a href='https://syntax-quizz.vercel.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -74,10 +74,10 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>
+              <span className=' text-lg font-bold text-red-500 tracking-wider'>
                 login app
               </span>
-              <p className='text-center'>a simple login app</p>
+              <p className='text-center text-red-500'>a simple login app</p>
               <div className='pt-8 text-center'>
                 <a href='https://simple-login2-alpha.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -98,10 +98,10 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-red-100 tracking-wider'>
+              <span className=' text-lg font-bold text-red-500 tracking-wider'>
                 furniture app
               </span>
-              <p className='text-center text-red-100'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center text-red-500'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
                 <a href='https://furniture-app-beta.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -122,10 +122,10 @@ const Works = () => {
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
-              <span className=' text-lg font-bold text-white tracking-wider'>
+              <span className=' text-lg font-bold text-red-500 tracking-wider'>
                 to do list
               </span>
-              <p className='text-center text-black'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center text-red-500'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
                 <a href='https://todolist-sigma-rosy.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
