@@ -1,5 +1,5 @@
 
-import code from '../assets/images.png';
+import code4 from '../assets/images.png';
 import code1 from '../assets/rocky.jpg';
 import code2 from '../assets/furnituress.jpeg';
 import code3 from '../assets/loginapp.png';
@@ -44,7 +44,7 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code4})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
