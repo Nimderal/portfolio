@@ -1,5 +1,11 @@
 
 import code from '../assets/images.png';
+import code1 from '../assets/rocky.jpg';
+import code2 from '../assets/furnituress.jpeg';
+import code3 from '../assets/loginapp.png';
+import code4 from '../assets/imgs.jpg';
+import code5 from '../assets/todolist.jpg';
+
 
 const Works = () => {
   return (
@@ -15,13 +21,13 @@ const Works = () => {
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code1})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Rock, paper, scissors game
               </span>
               <p className='text-center'>A game called Rock, paper,scissors </p>
               <div className='pt-8 text-center'>
@@ -63,7 +69,7 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code3})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -87,7 +93,7 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code2})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -111,7 +117,7 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${code5})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -119,7 +125,7 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 to do list
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center text-black'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
                 <a href='https://todolist-sigma-rosy.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -135,6 +141,7 @@ const Works = () => {
             </div>
           </div>
                                                                                                                                                                                                                          </div>
+
       </div>
     </div>
   );
