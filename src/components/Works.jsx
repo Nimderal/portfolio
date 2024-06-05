@@ -3,7 +3,6 @@ import code from '../assets/images.png';
 import code1 from '../assets/rocky.jpg';
 import code2 from '../assets/furnituress.jpeg';
 import code3 from '../assets/loginapp.png';
-import code4 from '../assets/imgs.jpg';
 import code5 from '../assets/todolist.jpg';
 
 
