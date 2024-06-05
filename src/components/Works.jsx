@@ -29,7 +29,7 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Rock, paper, scissors game
               </span>
-              <p className='text-center'>A game called Rock, paper,scissors </p>
+              <p className='text-center text-red'>A game called Rock, paper,scissors </p>
               <div className='pt-8 text-center'>
                 <a href='https://syntax-project.vercel.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>

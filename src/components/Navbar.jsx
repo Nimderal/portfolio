@@ -47,6 +47,11 @@ const Navbar = () => {
             Contact
           </Link>
         </li>
+        <li>
+          <a className='bg-white text-black p-2' href="https://eu.docworkspace.com/d/sINaExILyAd7fgbMG?sa=owa">
+            cv ➡️
+          </a>
+        </li>
       </ul>
       {/* Hamburger */}
       <div onClick={handleClick} className='md:hidden z-10'>
