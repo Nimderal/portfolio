@@ -23,14 +23,14 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 CBT Application
               </span>
-              <p className='text-center'>A game application built with javascripts</p>
+              <p className='text-center'>A game called Rock, paper,scissors </p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://syntax-project.vercel.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Landlord209/-Syntax-Project'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -45,16 +45,16 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Quiz Application
               </span>
               <p className='text-center'>A CBT web application built with React and Mongodb</p>
               <div className='pt-8 text-center'>
-                <a href='/'>
+                <a href='https://syntax-quizz.vercel.app'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/Adetoke0987/SyntaxQuizz'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
